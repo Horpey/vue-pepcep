@@ -1,0 +1,23 @@
+{
+  "name": "vue-pepcep",
+  "version": "1.0.0",
+  "description": "Pepcep Checkout for Vuejs",
+  "main": "index.js",
+  "author": "Adeniran Opeyemi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Horpey/vue-pepcep.git"
+  },
+  "keywords": [
+    "Pepcep",
+    "Vue",
+    "Vuejs",
+    "Vue 2",
+    "Payment"
+  ],
+  "bugs": {
+    "url": "https://github.com/Horpey/vue-pepcep/issues"
+  },
+  "homepage": "",
+  "license": "MIT"
+}
