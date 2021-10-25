@@ -1,4 +1,4 @@
-import VuePepcep from "./VuePepcep";
+import VuePepcep from "./VuePepcep.vue";
 
 export default {
   install(Vue, options) {
