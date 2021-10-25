@@ -1,6 +1,6 @@
 # Pepcep Component for Vue
 
-A Vue Plugin for Pepcep payment gateway.
+A Vue Plugin for [Pepcep](https://pepcep.com) payment gateway.
 
   
   
