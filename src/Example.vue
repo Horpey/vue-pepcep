@@ -11,14 +11,15 @@
 </template>
 <script>
 import VuePepcep from "./VuePepcep";
+
 export default {
   components: {
     VuePepcep,
   },
   data() {
     return {
-      pepcepkey: "pcp_pk_test_a42d5db26f9d52de4b6ddf72d76efae9_f",
-      subdomain: "test-horpey.pepcep.com",
+      pepcepkey: "pcp_pk_test_de1c44a927dbd7d1fsandboxbonkers_a",
+      subdomain: "sandbox.pepcep.com",
       items: [
         {
           name: "T-Shirt",

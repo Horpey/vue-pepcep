@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "vue-pepcep",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Pepcep Checkout for Vuejs",
   "main": "./dist/index.js",
   "author": "Adeniran Opeyemi",
@@ -31,7 +31,7 @@
   "dependencies": {
     "@vue/compiler-sfc": "^3.2.20",
     "bili": "^5.0.5",
-    "rollup-plugin-vue": "^6.0.0",
+    "rollup-plugin-vue": "5.0.0",
     "vue-template-compiler": "^2.6.14"
   }
 }
