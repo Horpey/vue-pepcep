@@ -17,8 +17,8 @@ export default {
   },
   data() {
     return {
-      pepcepkey: "pcp_pk_test_de1c44a927dbd7d1fsandboxbonkers_a",
-      subdomain: "sandbox.pepcep.com",
+      pepcepkey: "pcp_pk_test_a42d5db26f9d52de4b6ddf72d76efae9_f",
+      subdomain: "test-horpey.pepcep.com",
       items: [
         {
           name: "T-Shirt",

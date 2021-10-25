@@ -1,6 +1,6 @@
 <template>
   <button class="pepcepButton" @click="processPayment">
-    <slot>Make Payment</slot>
+    <slot>{{defaultText}}</slot>
   </button>
 </template>
 <script type="text/javascript">
@@ -26,6 +26,7 @@ export default {
   data() {
     return {
       scriptLoaded: null,
+      defaultText: 'Make Payment'
     };
   },
   created() {
